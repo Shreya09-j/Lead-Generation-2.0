@@ -1,0 +1,8 @@
+.env
+leads.csv
+failed_companies.csv
+processing_logs.txt
+__pycache__/
+.pytest_cache/
+.vendor/
+*.pyc
